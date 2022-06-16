@@ -8,6 +8,6 @@ public class C01_Variables {
 
         // На 13-й строке, выводим значение переменной - a, на экран.
 
-        System.out.println(a + " !");
+        System.out.println(a);
     }
 }
